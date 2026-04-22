@@ -1,0 +1,2 @@
+Challenge 1 is a Tax Calculator: Write a method calculating net salary after tax.
+// Ex: Calc(1000, 0.1) => 900

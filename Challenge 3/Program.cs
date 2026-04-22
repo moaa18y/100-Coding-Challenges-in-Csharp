@@ -12,7 +12,9 @@
 
         public static void CheckEvenOdd(int number)
         {
-            if(number % 2 ==0)
+            if(number < 0)
+                throw new ArgumentException("Number must be non-negative.");
+            else if (number % 2 ==0)
                 Console.WriteLine($"Number: {number} is even");
             else
                 Console.WriteLine($"Number: {number} is odd");

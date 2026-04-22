@@ -1,0 +1,2 @@
+Vowel Counter: Count (a, e, i, o, u) in a string.
+Ex: "Hello" => 2

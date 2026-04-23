@@ -1,0 +1,9 @@
+FizzBuzz App
+
+Print numbers 1 to 30, but apply these rules:
+
+Divisible by 7 		  	=>	"Lucky" 
+Divisible by 3 AND 5	=>	"FizzBuzz"
+Divisible by 3 (only)  	=>	"Fizz"
+Divisible by 5 (only) 		=>	"Buzz"
+None of the above    		=>	The number itself

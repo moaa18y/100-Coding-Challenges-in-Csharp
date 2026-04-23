@@ -1,0 +1,14 @@
+Challenge 7 String Inspector and Operations
+
+
+sentence = "  	The Quick Brown Fox Jumps Over The Lazy Dog  	"
+
+
+#	What to print						Expected result
+------------------------------------------------------------------------------------------------------------------------------
+1	Trimmed (no spaces around it)			The Quick Brown Fox Jumps Over The Lazy Dog
+2	Character count after trimming			43
+3	Sentence in lowercase				the quick brown fox jumps over the lazy dog
+4	Count of letter 'o' (any case)			4
+5	Spaces replaced with '_'				The_Quick_Brown_Fox_Jumps_Over_The_Lazy_Dog
+

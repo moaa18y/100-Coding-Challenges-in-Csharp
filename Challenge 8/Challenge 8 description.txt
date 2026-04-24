@@ -1,0 +1,28 @@
+Grade Calculator
+
+
+Read 5 exam scores from the user, then print a full report.
+
+Requirements:
+1.	Read 5 scores (0–100 each)
+2.	Reject any score outside 0–100
+3.	Calculate the average (2 decimal places)
+4.	Find the highest and lowest score
+5.	Assign a letter grade (see table →)
+6.	Print PASS if average ≥ 60, else FAIL	
+
+Grade Scale:
+Range	Grade	Label
+90–100	A	       Excellent
+80–89	B	       Good
+70–79	C	       Above Average
+60–69	D	       Pass
+< 60	        F	       Fail
+
+Expected output:
+
+Scores   : 88, 72, 95, 61, 80
+Average  : 79.20
+Highest  : 95  |  Lowest: 61
+Grade    : C  (Above Average)
+Status   : PASS

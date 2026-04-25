@@ -1,0 +1,21 @@
+Challenge 9 Number Analyzer:
+Read one integer from the user and print a full analysis.
+
+Detect and print:
+Is it positive, negative, or zero?
+Is it even or odd?
+Is it a prime number?
+Is it a perfect square?
+Sum of its digits (use absolute value)
+The number reversed  (e.g. 1234 → 4321)
+
+Example — input: 169
+
+Property	      		Result
+Positive?	       		Yes
+Even/Odd?		Odd
+Prime?	        	No
+Perfect Square?	 	Yes  (13 × 13)
+Digit Sum			16
+Reversed			961
+
